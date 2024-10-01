@@ -1,0 +1,5 @@
+"{
+ 'name': 'GetFile',
+ 'type': 'GetFile',
+ 'type': 'org.apache.nifi.processors.standard.GetFile'
+}"
